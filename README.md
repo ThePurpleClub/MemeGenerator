@@ -70,3 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Deployment
 The app was delpoyed on Heroku and you can visit the website here:
 https://fierce-cove-60626.herokuapp.com/
+
