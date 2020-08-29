@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Project Video
-[![Meme App](https://media.giphy.com/media/d9OBdW8TUyi3q5rFiy/giphy.gif](https://media.giphy.com/media/d9OBdW8TUyi3q5rFiy/giphy.gif)
+[![Alt text for your video](hhttps://media.giphy.com/media/cKhNAWuESg2VSZ0XrK/giphy.gif)](https://media.giphy.com/media/cKhNAWuESg2VSZ0XrK/giphy.gif)
 
 ## Available Scripts
 
