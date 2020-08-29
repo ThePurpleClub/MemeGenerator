@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Project Video
-[![Meme App](https://github.com/blackninja-ml/MemeGenerator/blob/master/demonstration.mp4)](https://github.com/blackninja-ml/MemeGenerator/blob/master/demonstration.mp4)
+[![Meme App](https://media.giphy.com/media/d9OBdW8TUyi3q5rFiy/giphy.gif](https://media.giphy.com/media/d9OBdW8TUyi3q5rFiy/giphy.gif)
 
 ## Available Scripts
 
